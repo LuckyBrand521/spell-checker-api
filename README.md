@@ -16,7 +16,6 @@ To run the project locally:
 | Dependency                                                                                            | Description                                                    |
 | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [warp](https://crates.io/crates/warp)                                                                 | Composable web server framework with powerful _filters_ system |
-| [serde](https://crates.io/crates/serde)                                                               | Library for _serializing_ and _deserializing_ data structures  |
-| [chrono](https://crates.io/crates/chrono)                                                             | Date and time utilities                                        |
+| [serde](https://crates.io/crates/serde)                                                               | Library for _serializing_ and _deserializing_ data structure                            |
 | [log](https://crates.io/crates/log) + [pretty_env_logger](https://crates.io/crates/pretty_env_logger) | Simple logger (by default enabled in _debug_ mode)             |
 
